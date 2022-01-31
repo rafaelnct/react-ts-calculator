@@ -7,11 +7,12 @@
 
 ## Programação
 
+-   Realizada por mim mesmo @rafaelnct
 -   Foi utilizado React e Typescript
 
 ## Layout
 
--   Layout foi adquirido no link:
-    -   https://xdfile.com/neumorphic-xd-calculator-ui-kits/
--   Pertence ao Designer:
-    -   https://dribbble.com/Owaisdesigns
+-   Layout pertence ao designer @Owaisdesigns[^1][^2]
+
+[^1]: https://xdfile.com/neumorphic-xd-calculator-ui-kits/
+[^2]: https://dribbble.com/Owaisdesigns

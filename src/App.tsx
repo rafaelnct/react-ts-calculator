@@ -1,9 +1,14 @@
-import styled from 'styled-components'
+import { CalcBody } from './components/CalcBody';
+import { CalcDisplay } from './components/CalcDisplay';
+import { GlobalStyle } from './styles/global';
 
 export function App() {
     return (
-        <div className="App">
-            <h1>Hello World</h1>
-        </div>
+        <>
+            <CalcBody>
+                <CalcDisplay />
+            </ CalcBody>
+            <GlobalStyle />
+        </>
     );
 }

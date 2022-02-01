@@ -3,7 +3,7 @@
 ## Descrição
 
 -   Programação de uma calculadora utilizando **React** e **Typescript**.
--   Com o proposito de servir para estudo e portfólio.
+-   O proposito é para estudo e portfólio.
 
 ## Programação
 

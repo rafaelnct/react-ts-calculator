@@ -1,4 +1,5 @@
 {
+    "root": true,
     "env": {
         "browser": true,
         "es2021": true,
@@ -8,9 +9,7 @@
         "eslint:recommended",
         "plugin:react/recommended",
         "plugin:@typescript-eslint/recommended",
-        "prettier",
-        "tslint:latest",
-        "tslint-config-prettier"
+        "prettier"
     ],
     "parser": "@typescript-eslint/parser",
     "parserOptions": {

@@ -3,13 +3,19 @@ import { createGlobalStyle } from 'styled-components';
 export const GlobalStyle = createGlobalStyle`
 
     :root {
+
         --bg-Whit01: #F3F3F6;
         --bg-Whit02: #FBFBFC;
 
         --bg-Dark01: #21232F;
         --bg-Dark02: #111320;
 
-        --bg-Shadw: rgba(0, 0, 0, 0.1);
+        --bg-Shadw01: rgba(0, 0, 0, 0.1);
+        --bg-Shadw02: rgba(0, 0, 0, 0.14);
+        --bg-Shadw03: #FFFFFF;
+
+        --border01: #EBEBEB;
+        --border02: #04050D;
 
         --font-Color01: #88898F;
         --font-Color02: #4096E5;

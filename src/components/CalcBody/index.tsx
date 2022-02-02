@@ -1,7 +1,7 @@
 import { Container, Content } from './styles';
 
 type CalcBodyProps = {
-    children: JSX.Element;
+    children: JSX.Element | JSX.Element[];
 }
 
 export function CalcBody({children}: CalcBodyProps) {
